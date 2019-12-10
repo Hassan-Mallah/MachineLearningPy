@@ -4,4 +4,9 @@
 
 # Classification
 
-![Alt text](https://github.com/Hassan-Mallah/MachineLearningPy/blob/master/ScreenshotClassification.png)
+![Alt text](https://github.com/Hassan-Mallah/MachineLearningPy/blob/master/Classification.png)
+
+
+# Evaluation
+
+![Alt text](https://github.com/Hassan-Mallah/MachineLearningPy/blob/master/Evaluation.png)
