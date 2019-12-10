@@ -1,4 +1,4 @@
-# Machince Learning - sklearn and Python. Data: 1,000 book reviews
+# Machince Learning - sklearn, Python. Data: 1,000 reviews
 
 ![Alt text](https://github.com/Hassan-Mallah/MachineLearningPy/blob/master/Screenshot.png)
 
