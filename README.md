@@ -1,4 +1,4 @@
-# Machince Learning with sklearn and Python
+# Machince Learning with sklearn and Python Trained on 1,000 book reviews
 
 ![Alt text](https://github.com/Hassan-Mallah/MachineLearningPy/blob/master/Screenshot.png)
 
