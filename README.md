@@ -1,4 +1,4 @@
-# Machince Learning - sklearn, Python. Data: 1,000 reviews
+# Machince Learning - sklearn, Python
 
 ### Data: 1,000 book reviews
 
